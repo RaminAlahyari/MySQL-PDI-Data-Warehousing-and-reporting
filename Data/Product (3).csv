@@ -1,0 +1,501 @@
+idProduct,CarBrand,CarModel,ModelYear,Price,AuthorizedService_idAuthorizedService
+1,Gonzalez and Sons,Sedan,2017,91837.14,178
+2,"French, Huff and Hicks",Coupe,2019,47729.07,91
+3,Vaughn-Coffey,Sedan,2008,95898.08,148
+4,Hensley-Ho,Mrs,2007,23651.97,165
+5,Patrick Inc,Hatchback,2018,51543.18,50
+6,"French, Huff and Hicks",Coupe,2002,70087.45,75
+7,Mccullough-Moore,SUV,2024,54591.13,8
+8,Wood LLC,Convertible,2007,85270.62,87
+9,Patrick Inc,good,2004,73532.45,93
+10,Patrick Inc,SUV,2000,61537.73,176
+11,Jackson-Williams,Convertible,2023,24893.37,62
+12,Jackson-Williams,SUV,2000,78564.67,179
+13,Mccullough-Moore,SUV,2001,66148.06,216
+14,King LLC,Convertible,2020,83236.77,46
+15,Johnson-Fletcher,affect,2022,60954.53,79
+16,Jackson-Williams,Coupe,2010,78213.73,41
+17,Johnson-Fletcher,SUV,2016,98348.5,78
+18,King LLC,SUV,2002,83694.99,147
+19,Jackson-Williams,Coupe,2004,73694.57,166
+20,"French, Huff and Hicks",Coupe,2016,37388.43,7
+21,King LLC,Sedan,2003,53021.76,202
+22,King LLC,Sedan,2009,91960.68,138
+23,Wood LLC,Sedan,2020,39290.72,67
+24,Gonzalez and Sons,Hatchback,2008,97562.81,172
+25,Patrick Inc,SUV,2013,41781.0,144
+26,"French, Huff and Hicks",Hatchback,2024,77156.1,90
+27,Gonzalez and Sons,Convertible,2017,82399.65,17
+28,Mccullough-Moore,Coupe,2009,36215.54,166
+29,Wood LLC,Convertible,2011,65640.98,149
+30,"French, Huff and Hicks",SUV,2018,49628.21,58
+31,"French, Huff and Hicks",SUV,2019,87688.92,156
+32,Gonzalez and Sons,Sedan,2017,23411.89,20
+33,Wood LLC,Coupe,2016,20074.24,242
+34,Gonzalez and Sons,Sedan,2015,84769.84,186
+35,Hensley-Ho,Sedan,2013,97747.23,237
+36,Jackson-Williams,Convertible,2010,34703.99,61
+37,Vaughn-Coffey,Coupe,2006,57535.09,238
+38,Mccullough-Moore,SUV,2012,72837.31,49
+39,Gonzalez and Sons,Hatchback,2022,79851.07,196
+40,Vaughn-Coffey,Hatchback,2013,46021.54,116
+41,Johnson-Fletcher,SUV,2005,94435.81,103
+42,Vaughn-Coffey,Sedan,2018,79310.83,207
+43,Patrick Inc,SUV,2000,35678.01,219
+44,Vaughn-Coffey,Coupe,2022,52465.06,120
+45,Johnson-Fletcher,Convertible,2019,45829.79,228
+46,Vaughn-Coffey,Hatchback,2012,71753.78,200
+47,Gonzalez and Sons,Coupe,2000,68933.86,142
+48,Patrick Inc,Sedan,2001,85987.43,194
+49,King LLC,Sedan,2022,33622.2,48
+50,Jackson-Williams,Sedan,2016,67107.38,216
+51,Johnson-Fletcher,Sedan,2003,44164.97,26
+52,Hensley-Ho,SUV,2017,54591.9,123
+53,Patrick Inc,Coupe,2023,47259.02,206
+54,Vaughn-Coffey,Hatchback,2005,20892.55,45
+55,"French, Huff and Hicks",Coupe,2022,98969.74,109
+56,Gonzalez and Sons,Sedan,2013,21943.09,213
+57,Vaughn-Coffey,Hatchback,2009,24462.1,45
+58,Mccullough-Moore,Convertible,2012,59412.93,204
+59,King LLC,Coupe,2002,83209.0,110
+60,Hensley-Ho,Convertible,2009,28349.77,121
+61,Wood LLC,Sedan,2020,26643.03,119
+62,Gonzalez and Sons,Hatchback,2010,35925.52,130
+63,Wood LLC,SUV,2000,22589.54,197
+64,Johnson-Fletcher,Hatchback,2010,65130.15,135
+65,Vaughn-Coffey,Convertible,2006,69283.03,105
+66,Mccullough-Moore,Sedan,2018,45115.3,211
+67,Patrick Inc,SUV,2009,62663.61,187
+68,Hensley-Ho,Convertible,2005,55211.14,13
+69,Johnson-Fletcher,Hatchback,2004,95609.24,211
+70,Patrick Inc,Coupe,2024,53736.38,30
+71,Gonzalez and Sons,Sedan,2020,94142.78,122
+72,Gonzalez and Sons,Hatchback,2004,20755.05,10
+73,Mccullough-Moore,Hatchback,2019,72990.08,52
+74,Gonzalez and Sons,Hatchback,2020,67376.55,109
+75,Patrick Inc,Hatchback,2013,97906.16,108
+76,Patrick Inc,Hatchback,2001,93586.05,229
+77,"French, Huff and Hicks",Sedan,2013,79328.13,23
+78,Johnson-Fletcher,SUV,2010,61758.75,112
+79,Wood LLC,Hatchback,2007,77063.48,140
+80,Johnson-Fletcher,Convertible,2014,25553.83,243
+81,King LLC,Convertible,2016,23752.29,233
+82,Gonzalez and Sons,SUV,2019,43250.42,95
+83,Gonzalez and Sons,SUV,2020,93443.54,158
+84,Vaughn-Coffey,Hatchback,2013,72257.18,132
+85,Jackson-Williams,Hatchback,2012,48359.72,99
+86,Gonzalez and Sons,Coupe,2009,70120.55,11
+87,Mccullough-Moore,Convertible,2024,48361.68,171
+88,Mccullough-Moore,Convertible,2024,38693.28,172
+89,Patrick Inc,SUV,2000,37622.19,106
+90,Vaughn-Coffey,Hatchback,2022,66866.65,220
+91,Patrick Inc,Hatchback,2014,38066.6,246
+92,Wood LLC,Coupe,2009,83861.27,36
+93,Mccullough-Moore,SUV,2018,35381.57,46
+94,King LLC,Hatchback,2006,27724.9,51
+95,Mccullough-Moore,Coupe,2005,48470.95,40
+96,Wood LLC,Sedan,2008,98170.71,165
+97,Gonzalez and Sons,Hatchback,2020,21827.91,47
+98,Mccullough-Moore,Hatchback,2010,83718.59,16
+99,Jackson-Williams,Coupe,2000,20042.78,88
+100,King LLC,SUV,2003,45747.34,245
+101,Jackson-Williams,Sedan,2017,97156.1,175
+102,"French, Huff and Hicks",SUV,2014,87703.18,6
+103,Jackson-Williams,Sedan,2008,23172.82,27
+104,Patrick Inc,Hatchback,2002,85497.82,85
+105,Vaughn-Coffey,Sedan,2009,53123.26,109
+106,Vaughn-Coffey,Hatchback,2023,69370.55,171
+107,Patrick Inc,Sedan,2008,94589.71,3
+108,Johnson-Fletcher,Hatchback,2011,90973.0,125
+109,"French, Huff and Hicks",Hatchback,2024,53271.56,39
+110,Hensley-Ho,condition,2009,82721.16,9
+111,Patrick Inc,Coupe,2000,94038.07,220
+112,"French, Huff and Hicks",SUV,2012,78427.2,14
+113,Vaughn-Coffey,Hatchback,2012,81798.02,80
+114,Wood LLC,Hatchback,2021,55932.4,217
+115,Patrick Inc,Sedan,2012,68636.05,222
+116,Hensley-Ho,SUV,2013,79619.78,55
+117,Patrick Inc,Coupe,2002,53249.12,247
+118,Gonzalez and Sons,SUV,2001,24041.49,76
+119,Johnson-Fletcher,Hatchback,2013,27188.39,17
+120,Jackson-Williams,Convertible,2018,35962.75,173
+121,"French, Huff and Hicks",Hatchback,2015,73271.17,20
+122,Johnson-Fletcher,SUV,2006,23828.93,34
+123,Patrick Inc,SUV,2010,61452.44,29
+124,"French, Huff and Hicks",Sedan,2013,71937.27,202
+125,Wood LLC,Coupe,2014,39346.33,104
+126,Jackson-Williams,Hatchback,2002,31442.9,182
+127,"French, Huff and Hicks",word,2013,58362.48,73
+128,Gonzalez and Sons,test,2014,35950.63,216
+129,"French, Huff and Hicks",develop,2013,33973.49,134
+130,Johnson-Fletcher,Sedan,2022,28725.36,136
+131,Wood LLC,Hatchback,2023,78994.98,173
+132,Hensley-Ho,Convertible,2009,37514.74,208
+133,Vaughn-Coffey,Convertible,2011,35893.95,101
+134,Hensley-Ho,Convertible,2003,44108.54,166
+135,Hensley-Ho,Sedan,2007,40066.04,207
+136,Patrick Inc,SUV,2009,74749.65,209
+137,Patrick Inc,Coupe,2001,26280.96,9
+138,Vaughn-Coffey,Convertible,2008,67271.64,112
+139,Wood LLC,Sedan,2014,50031.65,157
+140,Johnson-Fletcher,SUV,2015,75839.44,63
+141,Patrick Inc,Hatchback,2004,80466.05,146
+142,Mccullough-Moore,Convertible,2024,45665.6,225
+143,Gonzalez and Sons,Convertible,2013,47390.76,124
+144,King LLC,Convertible,2001,46628.3,192
+145,Patrick Inc,Coupe,2009,39513.9,88
+146,"French, Huff and Hicks",Hatchback,2013,20322.25,215
+147,Vaughn-Coffey,SUV,2003,60350.82,197
+148,Jackson-Williams,Sedan,2021,65329.85,137
+149,Johnson-Fletcher,SUV,2016,64158.35,113
+150,Vaughn-Coffey,Hatchback,2008,77283.98,168
+151,"French, Huff and Hicks",Sedan,2010,52930.78,181
+152,Gonzalez and Sons,Hatchback,2016,60521.88,242
+153,Patrick Inc,Hatchback,2010,40097.31,165
+154,Vaughn-Coffey,Hatchback,2024,90194.2,214
+155,Johnson-Fletcher,Sedan,2024,32601.03,69
+156,Patrick Inc,Sedan,2023,85781.32,205
+157,Vaughn-Coffey,Sedan,2012,40027.42,148
+158,Vaughn-Coffey,Coupe,2015,86596.38,21
+159,Vaughn-Coffey,SUV,2008,55376.45,117
+160,Johnson-Fletcher,Hatchback,2006,54350.5,61
+161,Gonzalez and Sons,Coupe,2018,58627.14,67
+162,Wood LLC,SUV,2008,93775.17,7
+163,Hensley-Ho,Sedan,2018,69899.77,234
+164,Patrick Inc,Convertible,2012,57441.26,94
+165,Vaughn-Coffey,Hatchback,2016,47782.34,212
+166,Mccullough-Moore,Sedan,2019,48123.42,28
+167,Gonzalez and Sons,Coupe,2016,68036.99,165
+168,Jackson-Williams,SUV,2015,71161.28,250
+169,Patrick Inc,Coupe,2023,36365.56,197
+170,Wood LLC,Convertible,2005,90641.79,89
+171,"French, Huff and Hicks",Sedan,2005,38628.51,234
+172,Vaughn-Coffey,SUV,2011,24213.62,13
+173,Jackson-Williams,SUV,2021,77851.34,167
+174,Wood LLC,Coupe,2018,72828.63,160
+175,Wood LLC,Sedan,2001,44616.31,80
+176,Hensley-Ho,SUV,2019,74937.13,17
+177,Mccullough-Moore,Hatchback,2014,56685.5,135
+178,Wood LLC,thought,2019,87152.42,170
+179,Gonzalez and Sons,Sedan,2020,71062.99,128
+180,Gonzalez and Sons,SUV,2009,76290.13,60
+181,Hensley-Ho,SUV,2005,24575.64,216
+182,Johnson-Fletcher,Convertible,2001,53498.77,215
+183,Jackson-Williams,Sedan,2021,43499.91,185
+184,Gonzalez and Sons,Convertible,2017,98985.64,176
+185,Hensley-Ho,SUV,2024,59868.51,170
+186,Mccullough-Moore,Convertible,2001,29337.03,218
+187,Hensley-Ho,Hatchback,2003,44552.1,152
+188,Gonzalez and Sons,Coupe,2016,45049.0,73
+189,Hensley-Ho,Coupe,2002,35077.09,116
+190,Johnson-Fletcher,SUV,2011,60094.28,235
+191,Wood LLC,Convertible,2001,78350.04,232
+192,Mccullough-Moore,Hatchback,2005,38750.86,211
+193,King LLC,Hatchback,2015,59901.19,25
+194,Mccullough-Moore,Coupe,2017,66168.01,65
+195,King LLC,Hatchback,2022,27852.09,5
+196,Mccullough-Moore,Hatchback,2004,37112.51,16
+197,Wood LLC,Sedan,2002,64253.91,32
+198,Mccullough-Moore,Hatchback,2023,90940.49,77
+199,Jackson-Williams,Hatchback,2009,59514.12,194
+200,Patrick Inc,station,2021,81964.75,154
+201,Vaughn-Coffey,Coupe,2007,20522.89,22
+202,Vaughn-Coffey,Sedan,2000,22397.18,140
+203,Jackson-Williams,SUV,2023,29467.39,72
+204,Patrick Inc,Convertible,2017,29202.19,183
+205,King LLC,Sedan,2015,43513.32,81
+206,Vaughn-Coffey,Hatchback,2003,45337.12,140
+207,"French, Huff and Hicks",Hatchback,2014,98695.65,104
+208,"French, Huff and Hicks",Convertible,2024,39714.44,61
+209,"French, Huff and Hicks",Hatchback,2023,80372.67,140
+210,Mccullough-Moore,Convertible,2014,21002.72,17
+211,Mccullough-Moore,Coupe,2019,70147.6,176
+212,Patrick Inc,SUV,2016,59838.68,81
+213,"French, Huff and Hicks",Convertible,2006,77610.35,97
+214,"French, Huff and Hicks",Sedan,2012,89206.46,19
+215,Vaughn-Coffey,Hatchback,2004,38957.57,199
+216,Vaughn-Coffey,SUV,2022,92061.9,82
+217,Johnson-Fletcher,Convertible,2001,47689.82,147
+218,Gonzalez and Sons,Convertible,2006,32454.41,124
+219,Mccullough-Moore,SUV,2006,48160.92,38
+220,Hensley-Ho,Sedan,2012,76808.33,186
+221,Wood LLC,Convertible,2012,29290.48,107
+222,Gonzalez and Sons,Convertible,2002,50235.52,91
+223,Gonzalez and Sons,SUV,2001,20841.83,180
+224,Jackson-Williams,Convertible,2000,67038.91,7
+225,Wood LLC,Convertible,2001,20922.29,157
+226,Hensley-Ho,SUV,2018,20269.63,164
+227,Hensley-Ho,Coupe,2011,32829.95,190
+228,"French, Huff and Hicks",Sedan,2014,36436.69,66
+229,Johnson-Fletcher,most,2019,81899.17,87
+230,Hensley-Ho,Coupe,2017,72854.48,75
+231,Johnson-Fletcher,Convertible,2014,43257.53,153
+232,Johnson-Fletcher,Coupe,2009,60031.23,54
+233,Mccullough-Moore,Sedan,2020,37903.82,230
+234,Johnson-Fletcher,Sedan,2007,45199.64,192
+235,"French, Huff and Hicks",Coupe,2023,37707.98,220
+236,Johnson-Fletcher,Hatchback,2005,21976.17,204
+237,Mccullough-Moore,recognize,2017,20966.1,198
+238,Jackson-Williams,Sedan,2024,25427.18,37
+239,Mccullough-Moore,Sedan,2022,44109.46,53
+240,"French, Huff and Hicks",Convertible,2011,84936.45,223
+241,Johnson-Fletcher,Coupe,2002,50328.41,107
+242,Jackson-Williams,seek,2023,75405.33,146
+243,Patrick Inc,Sedan,2023,47876.32,55
+244,Mccullough-Moore,Hatchback,2017,81053.21,230
+245,King LLC,SUV,2004,76659.09,227
+246,Patrick Inc,Convertible,2000,82776.79,150
+247,"French, Huff and Hicks",SUV,2020,79210.92,226
+248,Johnson-Fletcher,Convertible,2013,50329.12,241
+249,Mccullough-Moore,Convertible,2002,53300.43,232
+250,Johnson-Fletcher,SUV,2000,42338.47,241
+251,Wood LLC,SUV,2010,68183.68,196
+252,Patrick Inc,Convertible,2020,59630.01,145
+253,"French, Huff and Hicks",Sedan,2012,58300.8,204
+254,Patrick Inc,Coupe,2017,54975.04,81
+255,Wood LLC,Coupe,2001,68469.94,188
+256,"French, Huff and Hicks",Coupe,2021,85324.29,10
+257,Patrick Inc,Sedan,2000,30214.53,143
+258,Hensley-Ho,Convertible,2019,81330.36,137
+259,Gonzalez and Sons,Convertible,2022,67881.31,48
+260,Johnson-Fletcher,SUV,2019,62081.45,155
+261,Jackson-Williams,Coupe,2015,45799.55,158
+262,Johnson-Fletcher,Convertible,2019,49200.88,163
+263,Vaughn-Coffey,Convertible,2016,30400.12,213
+264,King LLC,Convertible,2008,24787.67,203
+265,Mccullough-Moore,SUV,2023,78438.15,208
+266,King LLC,Sedan,2003,25452.6,22
+267,King LLC,Convertible,2024,79905.78,57
+268,Johnson-Fletcher,Hatchback,2006,49607.84,65
+269,King LLC,Convertible,2009,54993.65,166
+270,Vaughn-Coffey,Hatchback,2003,46973.47,68
+271,"French, Huff and Hicks",teach,2011,38450.89,203
+272,Hensley-Ho,Coupe,2006,91347.59,4
+273,Johnson-Fletcher,Coupe,2017,81029.38,84
+274,"French, Huff and Hicks",SUV,2003,50835.16,155
+275,"French, Huff and Hicks",SUV,2021,65644.09,230
+276,Gonzalez and Sons,SUV,2006,92006.13,159
+277,Wood LLC,Coupe,2006,45932.49,52
+278,Gonzalez and Sons,Convertible,2018,58069.81,98
+279,"French, Huff and Hicks",SUV,2021,67509.67,18
+280,Mccullough-Moore,recent,2000,47368.17,167
+281,King LLC,Hatchback,2002,72483.02,71
+282,"French, Huff and Hicks",Coupe,2004,91127.16,169
+283,Vaughn-Coffey,SUV,2024,52125.44,118
+284,Hensley-Ho,SUV,2016,97493.78,101
+285,Gonzalez and Sons,Convertible,2019,88228.45,155
+286,Gonzalez and Sons,Hatchback,2019,94283.39,241
+287,King LLC,SUV,2014,83423.86,26
+288,Jackson-Williams,Convertible,2011,87224.49,166
+289,King LLC,Hatchback,2001,43159.08,10
+290,Hensley-Ho,Convertible,2004,84773.49,212
+291,Jackson-Williams,Coupe,2024,31727.68,24
+292,Patrick Inc,SUV,2009,74990.08,185
+293,Vaughn-Coffey,Sedan,2023,22043.63,24
+294,Johnson-Fletcher,Hatchback,2011,53538.5,50
+295,Wood LLC,SUV,2018,96034.48,241
+296,Johnson-Fletcher,Sedan,2015,34025.6,186
+297,Hensley-Ho,Coupe,2011,61543.96,219
+298,Vaughn-Coffey,SUV,2018,36773.91,228
+299,Gonzalez and Sons,Coupe,2013,71988.42,161
+300,Wood LLC,Coupe,2017,24190.48,222
+301,"French, Huff and Hicks",Hatchback,2019,62064.49,76
+302,Jackson-Williams,Sedan,2008,53959.08,2
+303,"French, Huff and Hicks",Hatchback,2015,89416.22,130
+304,Mccullough-Moore,until,2014,60846.51,169
+305,Wood LLC,SUV,2004,50634.02,64
+306,Hensley-Ho,SUV,2005,62793.59,123
+307,Patrick Inc,SUV,2011,33039.24,221
+308,Gonzalez and Sons,SUV,2021,28743.96,11
+309,Jackson-Williams,Sedan,2023,99983.6,244
+310,Patrick Inc,SUV,2014,32084.0,88
+311,King LLC,Hatchback,2000,84727.51,133
+312,Mccullough-Moore,Coupe,2000,86967.22,238
+313,Vaughn-Coffey,Sedan,2014,48566.83,112
+314,Mccullough-Moore,Coupe,2007,61911.51,73
+315,Vaughn-Coffey,early,2016,90779.72,201
+316,Wood LLC,Convertible,2012,80509.91,25
+317,Jackson-Williams,Sedan,2021,98518.01,181
+318,Jackson-Williams,Coupe,2000,20195.23,175
+319,Wood LLC,Sedan,2002,34629.72,162
+320,King LLC,Convertible,2022,20790.11,239
+321,Wood LLC,Hatchback,2019,28340.73,193
+322,Vaughn-Coffey,Sedan,2020,93156.16,100
+323,Patrick Inc,Sedan,2015,67725.45,45
+324,Vaughn-Coffey,Convertible,2016,30015.35,223
+325,Jackson-Williams,Coupe,2019,56241.75,27
+326,King LLC,Coupe,2020,66101.02,227
+327,Jackson-Williams,Coupe,2013,28591.45,241
+328,Mccullough-Moore,Coupe,2001,57092.39,18
+329,Wood LLC,Coupe,2014,75256.29,209
+330,Wood LLC,Convertible,2001,99890.97,36
+331,Johnson-Fletcher,Coupe,2007,26599.93,151
+332,Hensley-Ho,SUV,2002,30949.47,248
+333,Hensley-Ho,Hatchback,2013,40023.31,126
+334,Patrick Inc,Coupe,2022,92540.34,183
+335,Wood LLC,Sedan,2001,89780.5,213
+336,Mccullough-Moore,Convertible,2016,21087.84,163
+337,"French, Huff and Hicks",Coupe,2008,79979.58,151
+338,Patrick Inc,SUV,2010,28822.48,18
+339,"French, Huff and Hicks",Sedan,2013,25930.51,19
+340,"French, Huff and Hicks",Coupe,2020,32235.56,250
+341,King LLC,Hatchback,2020,49282.52,221
+342,King LLC,Coupe,2014,32168.01,133
+343,King LLC,Convertible,2006,39154.17,117
+344,King LLC,Hatchback,2008,44073.68,145
+345,"French, Huff and Hicks",Convertible,2012,87283.76,170
+346,King LLC,tax,2002,55601.24,170
+347,King LLC,Coupe,2003,66900.54,112
+348,Vaughn-Coffey,Convertible,2015,89635.99,127
+349,Johnson-Fletcher,Coupe,2015,46951.61,56
+350,Patrick Inc,SUV,2001,75946.88,43
+351,Jackson-Williams,Coupe,2010,23588.94,23
+352,King LLC,Sedan,2023,62654.24,177
+353,Mccullough-Moore,Sedan,2012,73690.34,150
+354,Wood LLC,SUV,2018,51647.45,50
+355,Wood LLC,Coupe,2020,49685.51,249
+356,"French, Huff and Hicks",SUV,2016,27021.45,158
+357,Vaughn-Coffey,Hatchback,2011,40495.89,184
+358,Johnson-Fletcher,voice,2022,71038.9,197
+359,Jackson-Williams,Sedan,2003,64281.31,96
+360,Jackson-Williams,Hatchback,2005,94670.24,113
+361,Wood LLC,SUV,2019,68229.85,7
+362,Hensley-Ho,Hatchback,2019,22991.51,215
+363,Jackson-Williams,main,2006,62965.39,68
+364,Gonzalez and Sons,radio,2017,66406.58,235
+365,Wood LLC,SUV,2024,77099.1,24
+366,Vaughn-Coffey,SUV,2023,32020.46,87
+367,Mccullough-Moore,Coupe,2019,44881.9,21
+368,Gonzalez and Sons,Hatchback,2020,50797.99,87
+369,Johnson-Fletcher,Convertible,2016,97274.7,47
+370,Jackson-Williams,SUV,2020,88898.11,128
+371,Gonzalez and Sons,Hatchback,2011,61957.55,185
+372,Patrick Inc,Sedan,2008,83499.35,64
+373,Jackson-Williams,Sedan,2018,90423.45,230
+374,Vaughn-Coffey,SUV,2024,97410.66,132
+375,"French, Huff and Hicks",Coupe,2007,75428.01,183
+376,Hensley-Ho,Hatchback,2006,24854.89,100
+377,Jackson-Williams,Sedan,2020,92909.44,18
+378,Jackson-Williams,Sedan,2021,23281.47,215
+379,Vaughn-Coffey,Convertible,2018,97018.54,13
+380,Wood LLC,Hatchback,2001,82801.6,23
+381,Vaughn-Coffey,Convertible,2013,59294.44,20
+382,Johnson-Fletcher,Coupe,2001,87933.41,25
+383,Jackson-Williams,SUV,2001,50391.58,127
+384,Gonzalez and Sons,per,2011,93693.13,105
+385,Mccullough-Moore,Hatchback,2010,22285.96,99
+386,Johnson-Fletcher,Sedan,2002,63406.37,229
+387,Patrick Inc,Convertible,2002,42295.44,228
+388,"French, Huff and Hicks",Hatchback,2019,75561.84,172
+389,Patrick Inc,SUV,2008,72392.84,208
+390,Gonzalez and Sons,Hatchback,2021,71415.31,152
+391,"French, Huff and Hicks",Sedan,2018,97848.61,174
+392,"French, Huff and Hicks",Sedan,2011,69698.39,144
+393,Mccullough-Moore,Coupe,2010,58623.26,45
+394,Mccullough-Moore,Hatchback,2000,29073.9,143
+395,Gonzalez and Sons,Sedan,2014,96857.4,4
+396,King LLC,Convertible,2023,71937.56,115
+397,"French, Huff and Hicks",Convertible,2016,47332.08,30
+398,Wood LLC,Sedan,2011,35619.47,79
+399,Hensley-Ho,SUV,2005,52879.78,15
+400,"French, Huff and Hicks",Hatchback,2020,87094.71,237
+401,Mccullough-Moore,product,2017,97865.68,12
+402,"French, Huff and Hicks",Coupe,2006,97689.58,127
+403,Wood LLC,Sedan,2009,72440.64,188
+404,Vaughn-Coffey,Hatchback,2003,77127.26,228
+405,Mccullough-Moore,Convertible,2004,49380.98,14
+406,Mccullough-Moore,Coupe,2002,22852.26,145
+407,Johnson-Fletcher,Coupe,2022,46937.32,86
+408,Jackson-Williams,Sedan,2006,80245.21,236
+409,Vaughn-Coffey,Sedan,2011,92798.29,135
+410,Mccullough-Moore,Convertible,2003,99112.54,191
+411,Mccullough-Moore,SUV,2014,73468.4,111
+412,"French, Huff and Hicks",Hatchback,2000,45115.39,224
+413,"French, Huff and Hicks",Convertible,2013,89675.77,190
+414,Johnson-Fletcher,Convertible,2016,84894.34,129
+415,Wood LLC,Convertible,2001,98946.95,108
+416,Johnson-Fletcher,Coupe,2018,72816.67,81
+417,King LLC,Coupe,2010,34560.74,179
+418,Vaughn-Coffey,SUV,2003,57222.48,31
+419,Johnson-Fletcher,Hatchback,2000,31749.58,104
+420,Johnson-Fletcher,Convertible,2018,53681.78,35
+421,Johnson-Fletcher,Sedan,2011,72889.0,184
+422,"French, Huff and Hicks",SUV,2019,23476.79,166
+423,Jackson-Williams,Convertible,2011,35296.03,27
+424,Hensley-Ho,SUV,2003,20832.81,74
+425,Jackson-Williams,SUV,2002,37614.61,28
+426,Wood LLC,husband,2019,53122.18,30
+427,"French, Huff and Hicks",Hatchback,2019,82553.15,131
+428,Wood LLC,Coupe,2019,24303.55,195
+429,"French, Huff and Hicks",Sedan,2015,81287.03,88
+430,Mccullough-Moore,drive,2006,20143.13,8
+431,Hensley-Ho,Sedan,2016,87180.74,139
+432,Patrick Inc,Coupe,2021,88218.78,210
+433,Johnson-Fletcher,Convertible,2000,44262.26,26
+434,Gonzalez and Sons,SUV,2003,64433.17,42
+435,Hensley-Ho,sense,2001,33956.57,141
+436,Wood LLC,Sedan,2011,59375.33,28
+437,Mccullough-Moore,Convertible,2006,91388.63,92
+438,Vaughn-Coffey,Convertible,2021,49206.07,120
+439,King LLC,Coupe,2009,90240.08,120
+440,Mccullough-Moore,Sedan,2002,34772.09,136
+441,Wood LLC,Hatchback,2013,31548.48,79
+442,"French, Huff and Hicks",Convertible,2009,87862.01,33
+443,Hensley-Ho,Hatchback,2005,66632.89,8
+444,Hensley-Ho,Convertible,2021,41684.09,135
+445,"French, Huff and Hicks",Convertible,2015,77628.15,101
+446,Gonzalez and Sons,Hatchback,2003,26596.2,114
+447,"French, Huff and Hicks",SUV,2003,51138.47,74
+448,Hensley-Ho,Coupe,2010,61044.31,70
+449,Patrick Inc,Sedan,2002,32248.44,184
+450,Vaughn-Coffey,Sedan,2018,41871.47,7
+451,Mccullough-Moore,Coupe,2017,70621.94,44
+452,King LLC,product,2007,85063.5,69
+453,Wood LLC,Coupe,2024,84193.74,238
+454,Patrick Inc,Hatchback,2004,54874.44,233
+455,King LLC,Convertible,2004,23494.29,22
+456,"French, Huff and Hicks",Coupe,2020,39320.35,98
+457,Jackson-Williams,Sedan,2000,53395.95,84
+458,Johnson-Fletcher,Hatchback,2021,69761.91,231
+459,Gonzalez and Sons,Convertible,2006,70593.9,142
+460,Mccullough-Moore,Coupe,2004,41353.76,173
+461,Vaughn-Coffey,Coupe,2008,61058.34,189
+462,Patrick Inc,Sedan,2024,48060.03,158
+463,"French, Huff and Hicks",Convertible,2020,84599.76,49
+464,Wood LLC,Hatchback,2001,45556.8,159
+465,Gonzalez and Sons,Convertible,2011,64764.27,195
+466,Patrick Inc,SUV,2008,74452.43,72
+467,"French, Huff and Hicks",Sedan,2003,23073.57,80
+468,"French, Huff and Hicks",Convertible,2020,86949.25,86
+469,Wood LLC,SUV,2007,46583.54,52
+470,Patrick Inc,Coupe,2020,42628.92,1
+471,Vaughn-Coffey,Convertible,2015,27295.34,158
+472,King LLC,Sedan,2010,67930.13,129
+473,Mccullough-Moore,Hatchback,2020,61289.99,180
+474,Jackson-Williams,Convertible,2016,61476.6,126
+475,Gonzalez and Sons,Sedan,2011,36941.51,190
+476,King LLC,Coupe,2009,25027.45,189
+477,Johnson-Fletcher,SUV,2010,64215.5,191
+478,Gonzalez and Sons,Coupe,2019,34592.81,236
+479,Jackson-Williams,Coupe,2015,29810.3,131
+480,Patrick Inc,Convertible,2004,30035.62,151
+481,Mccullough-Moore,Sedan,2020,25879.07,237
+482,Hensley-Ho,Hatchback,2000,47780.77,205
+483,"French, Huff and Hicks",Hatchback,2015,76484.51,21
+484,Mccullough-Moore,Coupe,2018,85214.16,212
+485,Vaughn-Coffey,Convertible,2004,97045.89,57
+486,Gonzalez and Sons,SUV,2014,56701.25,189
+487,"French, Huff and Hicks",Convertible,2020,71287.17,240
+488,King LLC,SUV,2008,22022.91,115
+489,Vaughn-Coffey,Sedan,2013,92287.81,31
+490,Jackson-Williams,Convertible,2006,67712.37,248
+491,Gonzalez and Sons,Sedan,2016,61035.81,59
+492,"French, Huff and Hicks",Convertible,2000,74052.58,102
+493,Patrick Inc,SUV,2016,37047.0,224
+494,King LLC,Sedan,2022,94914.84,117
+495,Vaughn-Coffey,Convertible,2016,95822.86,67
+496,Gonzalez and Sons,SUV,2006,85523.07,209
+497,Johnson-Fletcher,Convertible,2000,45302.26,134
+498,"French, Huff and Hicks",Hatchback,2000,52744.4,33
+499,Hensley-Ho,Coupe,2016,67261.69,83
+500,Johnson-Fletcher,figure,2017,81481.75,133
